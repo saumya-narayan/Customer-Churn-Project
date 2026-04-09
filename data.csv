@@ -1,0 +1,11 @@
+customer_id,gender,tenure,monthly_charges,total_charges,churn
+1,Male,1,500,500,Yes
+2,Female,5,700,3500,No
+3,Male,2,300,600,Yes
+4,Female,10,1000,10000,No
+5,Male,3,400,1200,Yes
+6,Female,8,900,7200,No
+7,Male,1,600,600,Yes
+8,Female,12,1100,13200,No
+9,Male,4,450,1800,Yes
+10,Female,15,1200,18000,No
